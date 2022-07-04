@@ -14,9 +14,9 @@
  * int- This is the main integer
  * if - define it
  */
-        int main(void)
+  int main(void)
         {
-	int n;
+           int n;
 
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
