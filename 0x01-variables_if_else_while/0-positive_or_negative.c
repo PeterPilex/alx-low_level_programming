@@ -14,9 +14,10 @@
  * int- This is the main integer
  * if - define it
  */
-  int main(void)
+int main(void)
    {
    	   int n;
+
 	   srand(time(0));
 	   n = rand() - RAND_MAX / 2;
 	   /* your code goes there */
@@ -32,4 +33,4 @@
 	   {
              printf("%d is negative\n", n);
 	    }
-	    return (0);
+	   return (0);  
