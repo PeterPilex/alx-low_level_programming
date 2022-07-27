@@ -1,5 +1,3 @@
-nes (13 sloc)  362 Bytes
-
 #ifndef FILE_MAIN
 #define FILE_MAIN
 
